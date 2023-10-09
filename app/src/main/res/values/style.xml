@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedImageView">
+        <item name="cornerSize">16dp</item> <!-- Sesuaikan dengan besar sudut yang Anda inginkan -->
+    </style>
+    <style name="RatingBar">
+        <item name="colorControlNormal">#9BA4B5</item>
+        <item name="colorControlActivated">#FFC700</item>
+    </style>
+</resources>
